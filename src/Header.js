@@ -11,7 +11,7 @@ export function Header({ query, setQuery }) {
 function Logo() {
   return (
     <div className="logo">
-      <img src="./weather-symbol-1-svgrepo-com.svgw" alt="App Logo" />
+      <img src="./weather-symbol-1-svgrepo-com.svg" alt="App Logo" />
       <h1>Weatherly</h1>
     </div>
   );
